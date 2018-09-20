@@ -93,6 +93,7 @@ class App extends Component {
     render() {
         return (
             <div className="App">
+            // KEY: Needed to use your new component class here
                 <header className="App-header">
                     <img src={logo} className="App-logo" alt="logo"/>
                     <h1 className="App-title">{this.state.appTitle}</h1>

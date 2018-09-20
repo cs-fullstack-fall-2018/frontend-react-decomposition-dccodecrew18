@@ -1,3 +1,4 @@
+// KEY: Good Job! You just needed to use this component in App.js :-)
 import React, {Component} from 'react';
 // import logo from './logo.svg';
 import logo from './todopostit.png';
